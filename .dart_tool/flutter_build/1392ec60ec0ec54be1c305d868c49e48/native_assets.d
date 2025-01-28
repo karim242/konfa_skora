@@ -1,1 +1,0 @@
- /Users/ahmedmousa/Documents/Ahmed/konaf_skora/.dart_tool/flutter_build/1392ec60ec0ec54be1c305d868c49e48/native_assets.yaml: 
