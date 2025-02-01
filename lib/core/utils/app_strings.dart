@@ -3,6 +3,7 @@ abstract class AppStrings {
       skip = "تخطي",
       creatNewAccount = "انشاء حساب جديد !",
       welcom = "مرحبا بك  ",
+      steps = 'خطوة',
       welcomBack = "مرحبا بعودتك !",
       signInSuccessfully =
           ' لقد قمت بتسجيل الدخول بنجاح \n في تطبيق دليل المدينه',
