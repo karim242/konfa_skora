@@ -7,7 +7,7 @@ import '../../src/features/intro/presentation/view/landing_page.dart';
 final GoRouter router = GoRouter(
   routes: [
     GoRoute(
-      path: '/',
+      path: RouterNames.landing,
       builder: (context, state) =>const LandingPageView(),
       ),
 

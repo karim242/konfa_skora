@@ -62,15 +62,15 @@ class CustomTextFormField extends StatelessWidget {
             enabledBorder: OutlineInputBorder(
               borderSide:
                   const BorderSide(color: Color.fromARGB(255, 207, 205, 205)),
-              borderRadius: BorderRadius.circular(15.0),
+              borderRadius: BorderRadius.circular(5.0),
             ),
             focusedBorder: OutlineInputBorder(
               borderSide: const BorderSide(color: AppColors.primaryColor),
-              borderRadius: BorderRadius.circular(15.0),
+              borderRadius: BorderRadius.circular(5.0),
             ),
             errorBorder: OutlineInputBorder(
               borderSide: const BorderSide(color: AppColors.red),
-              borderRadius: BorderRadius.circular(15.0),
+              borderRadius: BorderRadius.circular(55.0),
             )),
         validator: validator ?? (value) => null,
         maxLines: maxLines,
