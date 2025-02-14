@@ -24,7 +24,7 @@ abstract class AppStrings {
       welcomeInLogin = 'مرحبا بك مره اخرى فى تطبيق دليل المدينه',
       enterPasswordHint = 'أدخل كلمة المرور الخاصة بك',
       verifyEmail = "تأكيد البريد الاكتروني",
-      donotHaveAnAccount = "ليس لديك حساب؟ ",
+      dontHaveAnAccount = "ليس لديك حساب؟ ",
       haveAnAccount = 'لديك حساب بالفعل ؟ ',
       resendCode = "إعادة إرسال الرمز",
       letsStart = "هيا نبدأ !",

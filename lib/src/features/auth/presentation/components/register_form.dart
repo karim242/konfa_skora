@@ -20,7 +20,10 @@ class RegisterForm extends StatelessWidget {
         padding: EdgeInsets.all(20.r),
         child: Column(
           children: [
-            const CreateAccountTitle(),
+            const CreateAccountTitle(
+              title: AppStrings.createNewAccount,
+              subTitle: AppStrings.personalData,
+            ),
             SizedBox(height: 20.h),
             FirstAndLastNameRow(
               firstNameController: TextEditingController(),
