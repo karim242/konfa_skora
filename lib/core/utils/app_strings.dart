@@ -82,7 +82,7 @@ abstract class AppStrings {
       typeOfRepersentative = "نوع المندوب",
       scienstific = "علمي",
       sales = "تجاري",
-      creatAccount = "انشئ حساب",
+      createAccount = "انشئ حساب",
       haveAnAccoun = "لديك حساب بالفعل ؟ ",
       signInNow = "تسجيل الدخول ",
       hintConfirmationCode = "ادخل كود التسجيل الخاص بك",
